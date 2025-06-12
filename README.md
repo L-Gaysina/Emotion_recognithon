@@ -1,4 +1,4 @@
-# Emotion_recognithon
+# Emotion_recognition
 Сервис оценки эмоций по тону голоса. Для Хакатана МФТИ и Skillfactory 2023
 
 
